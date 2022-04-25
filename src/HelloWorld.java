@@ -10,5 +10,11 @@ public class HelloWorld {
 
     // and ready to be pushed to remote repository
 
+    public static void main(String[] args) {
+
+        System.out.println("Hello World");
+
+    }
+
 
 }
